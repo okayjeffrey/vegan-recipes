@@ -14,5 +14,7 @@
 
 # Preparation:
 1. Preheat the oven to 350 F. Drizzle the head of garlic with oil, then wrap in aluminum foil and roast until fragrant and soft, about 45 minutes to 1 hour. Set aside to cool slightly before using in step 3.
+
 2. Meanwhile, bring a large pot of lightly salted water to a boil over medium-high heat. Add the russet potatoes and cook for about 15 minutes at a rolling boil, or until potatoes are very tender when pierced with a fork. (They should almost fall apart when pierced.)
+
 3. Drain the potatoes and return them to the pot. Roughly mash the potatoes with the soy milk and soy cream cheese. Cut the roasted garlic head in half. Using your fingers, squeeze the roasted garlic cloves into the potatoes, discarding the skins. Add the salt and pepper and, using an electric hand mixer, whip the garlic potatoes until creamy. Add additional salt and pepper to taste, and serve hot. (If potatoes have cooled, simply reheat them in the pot over medium heat until hot.)
