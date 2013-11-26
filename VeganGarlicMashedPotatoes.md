@@ -4,13 +4,13 @@
 - Yield: 10-12 servings
 
 # Ingredients:
-[ ] 1 large bulb of garlic
-[ ] 1-2 T. olive oil, for drizzling
-[ ] 3 1/2 pounds russet potatoes, scrubbed, peeled and chopped
-[ ] 1 cup plain dairy-free soy milk
-[ ] 8 ounces dairy-free cream cheese, such as Tofutti
-[ ] 3/4 t. salt, plus more to taste
-[ ] Freshly ground black pepper, to taste
+- [ ] 1 large bulb of garlic
+- [ ] 1-2 T. olive oil, for drizzling
+- [ ] 3 1/2 pounds russet potatoes, scrubbed, peeled and chopped
+- [ ] 1 cup plain dairy-free soy milk
+- [ ] 8 ounces dairy-free cream cheese, such as Tofutti
+- [ ] 3/4 t. salt, plus more to taste
+- [ ] Freshly ground black pepper, to taste
 
 # Preparation:
 1. Preheat the oven to 350 F. Drizzle the head of garlic with oil, then wrap in aluminum foil and roast until fragrant and soft, about 45 minutes to 1 hour. Set aside to cool slightly before using in step 3.
