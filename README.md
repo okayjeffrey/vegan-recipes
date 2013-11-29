@@ -1,5 +1,4 @@
-# Collection of Vegan Recipes
-## Found & Created
+# A Collection of Vegan Recipes ( Found & Created)
 
 Trying to see how the Markdown and recipes will work in Github.
 Original idea from [@MattKosoy](https://github.com/MattKosoy).
