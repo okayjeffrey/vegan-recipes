@@ -1,4 +1,4 @@
-# Vegan meat loaf
+# Meat Loaf
 
 ## Ingredients
 
