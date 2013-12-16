@@ -1,5 +1,6 @@
 # Apple Cranberry Salad with Fried Seitan & Almond Dijon Dressing 
-Serving Size: **2 salads**
+Source: [Vegan Yum Yum](http://veganyumyum.com/2008/03/apple-cranberry-salad-with-fried-seitan-and-almond-dijon-dressing) <br/>
+Serving Size: **2 salads** <br/>
 
 ## Ingredients
 - 1 Head Lettuce (Romain, Green, Butter, whatever)
