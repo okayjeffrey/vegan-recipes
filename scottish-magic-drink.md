@@ -1,6 +1,6 @@
 #Scottish Cold Magic
 
-- **1, 12oz** Cup or mason jar (mason is best because you can use the kid for better steeping)
+- **1, 12oz** Cup or mason jar (mason is best because you can use the lid for better steeping)
 - hot water
 - **1** clove of garlic (crushed in cup)
 - **1** thumb sized ginger (peeled & crushed in cup)
