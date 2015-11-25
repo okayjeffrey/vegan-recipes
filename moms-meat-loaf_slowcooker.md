@@ -1,4 +1,7 @@
-# Mom-Style Vegan Meatloaf: Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified by me)
+# Mom-Style Vegan Meatloaf: 
+
+### *Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified by me)*
+
 **Source:** [Savvyvegetarian](http://www.savvyvegetarian.com/vegetarian-recipes/vegan-meatloaf.php) <br/>
 **Serving Size:** 4 - 6 Servings <br/>
 **Nutrition Data, 327g Serving**: 426 cal, 57g carb, 13g fat, 598mg sodium, 8g fiber, 26g protein, 14g sugars, low Cholesterol, Saturated fat. Good source Vit. K., Calcium, Manganese. Estimated glycemic load 27
