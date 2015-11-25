@@ -1,31 +1,31 @@
 # Mom-Style Vegan Meatloaf: Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified by me)
-Source: [Savvyvegetarian](http://www.savvyvegetarian.com/vegetarian-recipes/vegan-meatloaf.php) <br/>
-Serving Size: 4 - 6 Servings <br/>
-Nutrition Data, 327g Serving: 426 cal, 57g carb, 13g fat, 598mg sodium, 8g fiber, 26g protein, 14g sugars, low Cholesterol, Saturated fat. Good source Vit. K., Calcium, Manganese. Estimated glycemic load 27
+**Source:** [Savvyvegetarian](http://www.savvyvegetarian.com/vegetarian-recipes/vegan-meatloaf.php) <br/>
+**Serving Size:** 4 - 6 Servings <br/>
+**Nutrition Data, 327g Serving**: 426 cal, 57g carb, 13g fat, 598mg sodium, 8g fiber, 26g protein, 14g sugars, low Cholesterol, Saturated fat. Good source Vit. K., Calcium, Manganese. Estimated glycemic load 27
 
 ## Ingredients
-- 2 tsp. olive oil, plus more for drizzling
-- 1 small yellow onion, minced
-- 2 garlic cloves, minced
-- 1 Tblsp. dried thyme
-- 1 1/2 cups cooked pinto beans or 1 15 oz. can beans, rinsed and drained
-- 12 oz extra-firm tofu, drained, squeezed, and crumbled
-- 3/4 cup ketchup
-- 2 Tblsp. soy sauce / braggs
-- 1 Tblsp. Dijon mustard
-- 1/2 cup ground cashews
-- 1/2 cup old-fashioned rolled oats
-- 1/4 cup dried bread crumbs
-- 1/2 cup vital wheat gluten
-- 2 Tblsp. tapioca starch
-- 2 Tblsp. minced fresh flat-leaf parsley
+- **2 tsp.** olive oil, plus more for drizzling
+- **1 small** yellow onion, minced
+- **2 cloves** garlic, minced
+- **1 Tblsp.** dried thyme
+- **1 1/2 cups** cooked pinto beans or 1 15 oz. can beans, rinsed and drained
+- **12 oz** extra-firm tofu, drained, squeezed, and crumbled
+- **3/4 cup** ketchup
+- **2 Tblsp.** soy sauce / braggs
+- **1 Tblsp.** Dijon mustard
+- **1/2 cup** ground cashews
+- **1/2 cup** old-fashioned rolled oats
+- **1/4 cup** dried bread crumbs
+- **1/2 cup** vital wheat gluten
+- **2 Tblsp.** tapioca starch
+- **2 Tblsp.** minced fresh flat-leaf parsley
 - Salt and freshly ground black pepper
-- 2 large carrots, peeled and cut into 1/4-inch slices
-- 2 or 3 Yukon Gold potatoes, peeled and cut into 1/2-inch slices
-- 2 or 3 shallots, quartered lengthwise
-- 2 Tblsp. yellow or brown mustard
-- 1 Tblsp. light brown sugar
-- 1 Tblsp. cider vinegar
+- **2 large** carrots, peeled and cut into 1/4-inch slices
+- **2/3** Yukon Gold potatoes, peeled and cut into 1/2-inch slices
+- **2/3** shallots, quartered lengthwise
+- **2 Tblsp.** yellow or brown mustard
+- **1 Tblsp.** light brown sugar
+- **1 Tblsp.** cider vinegar
 
 ## Preparation
 
