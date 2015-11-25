@@ -1,6 +1,6 @@
 # Mom-Style Vegan Meatloaf: 
 
-### *Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified by me)*
+### *Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified)*
 
 **Source:** [Savvyvegetarian](http://www.savvyvegetarian.com/vegetarian-recipes/vegan-meatloaf.php) <br/>
 **Serving Size:** 4 - 6 Servings <br/>
