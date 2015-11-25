@@ -1,4 +1,10 @@
-# Mom-Style Vegan Meatloaf: 
+---
+layout: post
+title:  "Mom-Style Vegan Meatloaf"
+categories: recipe meat
+---
+
+# Mom-Style Vegan Meatloaf:
 
 ### *Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified)*
 

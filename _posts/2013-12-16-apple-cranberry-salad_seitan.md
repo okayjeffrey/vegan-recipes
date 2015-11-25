@@ -1,4 +1,10 @@
-# Apple Cranberry Salad with Fried Seitan & Almond Dijon Dressing 
+---
+layout: post
+title:  "Apple Cranberry Salad with Fried Seitan & Almond Dijon Dressing"
+categories: recipe italian
+---
+
+# Apple Cranberry Salad with Fried Seitan & Almond Dijon Dressing
 Source: [Vegan Yum Yum](http://veganyumyum.com/2008/03/apple-cranberry-salad-with-fried-seitan-and-almond-dijon-dressing) <br/>
 Serving Size: **2 salads** <br/>
 

@@ -1,4 +1,10 @@
-#Scottish Cold Magic
+---
+layout: post
+title:  "Scottish Cold Magic"
+categories: recipe drink
+---
+
+# Scottish Cold Magic
 
 - **1, 12oz** Cup or mason jar (mason is best because you can use the kid for better steeping)
 - hot water

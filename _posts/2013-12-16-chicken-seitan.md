@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Chicken-Style Seitan"
+categories: recipe meat
+---
+
 # Chicken-Style Seitan
 Serving Size: **4 Cutlets**
 

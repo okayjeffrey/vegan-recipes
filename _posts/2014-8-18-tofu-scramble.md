@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Good Tofu Scramble"
+categories: recipe meat
+---
+
 # Good Tofu Scramble
 
 ## Ingredients

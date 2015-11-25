@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Green Bean Casserole"
+categories: recipe veggy
+---
+
 # Green Bean Casserole
 
 Serving Size: **6**

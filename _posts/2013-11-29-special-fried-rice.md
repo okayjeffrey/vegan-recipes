@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Special Fried Rice"
+categories: recipe asian
+---
+
 # Special Fried Rice
 
 ## Ingredients

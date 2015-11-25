@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Wild Fennel and Sausage Pasta"
+categories: recipe italian
+---
+
 # Wild Fennel and Sausage Pasta
 
 Serving Size: **6**

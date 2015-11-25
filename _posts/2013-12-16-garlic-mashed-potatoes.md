@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Garlic Mashed Potatoes"
+categories: recipe veggy
+---
+
 # Garlic Mashed Potatoes
 
 Prep Time: **1 hour** <br>

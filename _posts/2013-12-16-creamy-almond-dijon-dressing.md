@@ -1,4 +1,10 @@
-# Creamy Almond Dijon Dressing 
+---
+layout: post
+title:  "Creamy Almond Dijon Dressing"
+categories: recipe dressing
+---
+
+# Creamy Almond Dijon Dressing
 Serving Size: **2 salads**
 
 ## Ingredients

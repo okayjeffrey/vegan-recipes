@@ -1,4 +1,10 @@
-# Fried Seitan
+---
+layout: post
+title:  "Chicken Fried Seitan"
+categories: recipe meat
+---
+
+# Chicken Fried Seitan
 
 ## Ingredients
 
