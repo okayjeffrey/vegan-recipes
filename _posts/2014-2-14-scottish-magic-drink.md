@@ -4,7 +4,7 @@ title:  "Scottish Cold Magic"
 categories: recipe drink
 ---
 
-# Scottish Cold Magic
+# Ingredients 
 
 - **1, 12oz** Cup or mason jar (mason is best because you can use the kid for better steeping)
 - hot water
@@ -14,4 +14,5 @@ categories: recipe drink
 - **half** of lemon or lime (juiced)
 - **spoon** of agave nector
 
-Put it all in the cup and pour hot on top and let it steep for 5 mins then drink it down good, you can resteep the same ingredients a couple of times.
+# Preparation
+Put it all in the cup and pour hot on top and let it steep for 5 mins then drink it down good, you can resteep the same ingredients a multiple times.
