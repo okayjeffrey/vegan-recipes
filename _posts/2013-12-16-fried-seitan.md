@@ -2,10 +2,8 @@
 layout: post
 title:  "Chicken Fried Seitan"
 categories: recipe meat
+serving-size:
 ---
-
-# Chicken Fried Seitan
-
 ## Ingredients
 
 - [4 Seitan Cutlets](chicken-seitan.md)
