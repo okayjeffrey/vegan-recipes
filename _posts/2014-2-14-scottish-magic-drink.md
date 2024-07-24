@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scottish Magic Potion"
-categories: recipe drink
+categories: drink
 serving-size: 1
 ---
 

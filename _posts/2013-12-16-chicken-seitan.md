@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken-Style Seitan"
-categories: recipe meat
+categories: meat
 serving-size: 4 Cutlets
 ---
 Serving Size: **4 Cutlets**

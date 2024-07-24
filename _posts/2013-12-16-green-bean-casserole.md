@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Green Bean Casserole"
-categories: recipe veggy
+categories: veggy
 serving-size: 6
 ---
 

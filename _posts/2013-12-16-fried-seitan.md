@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken Fried Seitan"
-categories: recipe meat
+categories: meat
 serving-size:
 ---
 ## Ingredients

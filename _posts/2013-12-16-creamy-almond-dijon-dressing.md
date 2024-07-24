@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creamy Almond Dijon Dressing"
-categories: recipe dressing
+categories: dressing
 serving-size: 2 salads
 ---
 

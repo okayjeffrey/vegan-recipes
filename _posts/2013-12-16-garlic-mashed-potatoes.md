@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Garlic Mashed Potatoes"
-categories: recipe veggy
+categories: veggy
 serving-size:
 ---
 Prep Time: **1 hour** <br>

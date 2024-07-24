@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Good Tofu Scramble"
-categories: recipe meat
+categories: meat
 serving-size: 2
 ---
 

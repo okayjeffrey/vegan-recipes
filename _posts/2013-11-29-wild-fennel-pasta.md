@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wild Fennel and Sausage Pasta"
-categories: recipe italian
+categories: italian
 ---
 Serving Size: **6**
 

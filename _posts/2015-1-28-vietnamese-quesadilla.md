@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bánh Tráng Nướng"
-categories: recipe vietnamese
+categories: vietnamese
 serving-size: 1
 ---
 

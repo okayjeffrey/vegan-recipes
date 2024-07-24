@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Special Fried Rice"
-categories: recipe asian
+categories: asian
 ---
 ## Ingredients
 
