@@ -2,9 +2,8 @@
 layout: post
 title:  "Good Tofu Scramble"
 categories: recipe meat
+serving-size: 2
 ---
-
-# Good Tofu Scramble
 
 ## Ingredients
 
@@ -13,7 +12,7 @@ categories: recipe meat
 - 1/2 cup Nutritional Yeast
 - 1 Roma Tomato chopped
 - dash Turmeric
-- Braggs
+- Braggs / Soy Sauce
 - Salt
 - Pepper
 - chilli pepper
