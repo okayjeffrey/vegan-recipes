@@ -3,9 +3,6 @@ layout: post
 title:  "Special Fried Rice"
 categories: recipe asian
 ---
-
-# Special Fried Rice
-
 ## Ingredients
 
 * 3 cups old rice (can not be fresh cooked should be like day old out of fridge is best)
