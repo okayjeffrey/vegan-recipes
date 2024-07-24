@@ -2,9 +2,9 @@
 layout: post
 title:  "Bánh Tráng Nướng"
 categories: recipe vietnamese
+serving-size: 1
 ---
 
-# Bánh Tráng Nướng
 Serving Size: **1 quesadilla**
 
 ## Ingredients
