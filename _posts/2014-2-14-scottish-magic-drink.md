@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scottish Cold Magic"
+title:  "Scottish Magic Potion"
 categories: recipe drink
 ---
 
