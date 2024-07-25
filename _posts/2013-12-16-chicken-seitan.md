@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Chicken-Style Seitan"
+title:  "Seitan Chicken-Style"
 categories: meat
 serving-size: 4 Cutlets
+permalink: /seitan-chicken/
 ---
 Serving Size: **4 Cutlets**
 

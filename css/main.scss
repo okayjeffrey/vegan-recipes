@@ -3,21 +3,25 @@
 ---
 @charset "utf-8";
 
-
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "Space Mono", monospace;
+$headline-font-family: "Work Sans", sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.7;
+$headline-line-height: 1.25;
+$font-weight-regular: 400;
+$font-weight-bold: 800;
 
-$spacing-unit:     30px;
+$spacing-unit:     32px;
 
-$text-color:       #111;
+$text-color:       #010101;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #f74e00;
 
-$grey-color:       #828282;
+$grey-color:       #606060;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -29,8 +33,8 @@ $on-laptop:        800px;
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-right: calc($spacing-unit / 2);
+//         padding-left: calc($spacing-unit / 2);
 //     }
 // }
 @mixin media-query($device) {

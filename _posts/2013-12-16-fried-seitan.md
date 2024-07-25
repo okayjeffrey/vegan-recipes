@@ -6,7 +6,7 @@ serving-size:
 ---
 ## Ingredients
 
-- [4 Seitan Cutlets](chicken-seitan.md)
+- [4 Seitan Chicken Cutlets](/vegan-recipes/seitan-chicken/)
 - 32 Oz. High Heat Oil
 - Seasoned Dry Mix
   - 3 tsp Old Bay or Adobo Seasoning
