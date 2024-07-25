@@ -3,7 +3,7 @@ layout: post
 title:  "Seitan Chicken-Style"
 categories: meat
 serving-size: 4 Cutlets
-permalink: /seitan-chicken/
+permalink: /:categories/:title/
 ---
 Serving Size: **4 Cutlets**
 

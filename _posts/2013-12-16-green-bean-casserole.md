@@ -3,6 +3,7 @@ layout: post
 title:  "Green Bean Casserole"
 categories: veggy
 serving-size: 6
+permalink: /:categories/:title/
 ---
 
 Serving Size: **6**

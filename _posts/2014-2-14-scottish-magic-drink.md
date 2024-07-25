@@ -3,6 +3,8 @@ layout: post
 title:  "Scottish Magic Potion"
 categories: drink
 serving-size: 1
+permalink: /:categories/:title/
+
 ---
 
 # Ingredients 

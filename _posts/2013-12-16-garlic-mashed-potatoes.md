@@ -3,6 +3,8 @@ layout: post
 title:  "Garlic Mashed Potatoes"
 categories: veggy
 serving-size:
+permalink: /:categories/:title/
+
 ---
 Prep Time: **1 hour** <br>
 Cook Time: **15 minutes** <br>

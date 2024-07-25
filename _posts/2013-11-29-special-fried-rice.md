@@ -2,6 +2,8 @@
 layout: post
 title:  "Special Fried Rice"
 categories: asian
+permalink: /:categories/:title/
+
 ---
 ## Ingredients
 

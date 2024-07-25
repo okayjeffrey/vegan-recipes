@@ -3,6 +3,8 @@ layout: post
 title:  "Mom-Style Vegan Meatloaf"
 categories: meat
 serving-size: 4-6
+permalink: /:categories/:title/
+
 ---
 ### *Delicious not-meatloaf crockpot recipe from Robin Robertson's (Modified)*
 

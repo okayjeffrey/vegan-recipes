@@ -3,6 +3,7 @@ layout: post
 title:  "Creamy Almond Dijon Dressing"
 categories: dressing
 serving-size: 2 salads
+permalink: /:categories/:title/
 ---
 
 Serving Size: **2 salads**

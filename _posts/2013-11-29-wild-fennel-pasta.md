@@ -2,6 +2,8 @@
 layout: post
 title:  "Wild Fennel and Sausage Pasta"
 categories: italian
+permalink: /:categories/:title/
+
 ---
 Serving Size: **6**
 

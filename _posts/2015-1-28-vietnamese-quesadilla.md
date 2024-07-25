@@ -3,6 +3,8 @@ layout: post
 title:  "Bánh Tráng Nướng"
 categories: vietnamese
 serving-size: 1
+permalink: /:categories/:title/
+
 ---
 
 Serving Size: **1 quesadilla**

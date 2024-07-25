@@ -3,6 +3,8 @@ layout: post
 title:  "Good Tofu Scramble"
 categories: meat
 serving-size: 2
+permalink: /:categories/:title/
+
 ---
 
 ## Ingredients
