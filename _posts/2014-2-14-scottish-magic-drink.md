@@ -13,6 +13,7 @@ permalink: /:categories/:title/
 - hot water
 - **1** clove of garlic (crushed in cup)
 - **1** thumb sized ginger (peeled & crushed in cup)
+- **1 teaspoon or dash** of turmeric powder
 - **pinch or 2** of cayenne/chilli (powder)
 - **half** of lemon or lime (juiced)
 - **spoon** of agave nector
