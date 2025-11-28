@@ -5,7 +5,7 @@
 - **1** clove of garlic (crushed in cup)
 - **1** thumb sized ginger (peeled & crushed in cup)
 - **pinch or 2** of cayenne/chilli (powder)
-- **dash or as much as you want* turmeric powder
+- **dash or as much as you want** turmeric powder
 - **half** of lemon or lime (juiced)
 - **spoon** of agave nector
 
