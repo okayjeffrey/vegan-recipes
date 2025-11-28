@@ -9,10 +9,10 @@ permalink: /:categories/:title/
 
 # Ingredients 
 
-- **1, 12oz** Cup or mason jar (mason is best because you can use the kid for better steeping)
+- **1, 12oz Cup** or mason jar (mason is best because you can use the kid for better steeping)
 - hot water
-- **1** clove of garlic (crushed in cup)
-- **1** thumb sized ginger (peeled & crushed in cup)
+- **1 clove** of garlic (crushed in cup)
+- **1 thumb** sized ginger (peeled & crushed in cup)
 - **1 teaspoon or dash** of turmeric powder
 - **pinch or 2** of cayenne/chilli (powder)
 - **half** of lemon or lime (juiced)
