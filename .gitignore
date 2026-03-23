@@ -3,3 +3,14 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.DS_Store
+_layouts/.DS_Store
+_posts/.DS_Store
+_posts/.obsidian/app.json
+_posts/.obsidian/appearance.json
+_posts/.obsidian/core-plugins.json
+_posts/.obsidian/templates.json
+_posts/.obsidian/workspace.json
+_posts/.obsidian/zk-prefixer.json
+_posts/_posts-db.base
+_posts/_templates/recipe.md
